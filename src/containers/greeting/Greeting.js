@@ -23,19 +23,35 @@ export default function Greeting() {
               <h1
                 className={isDark ? "dark-mode greeting-text" : "greeting-text"}
               >
-                {" "}
-                {greeting.title}{" "}
+                {greeting.title}
                 <span className="wave-emoji">{emoji("👋")}</span>
               </h1>
+
+              {/* ⭐ UPDATED SUBTITLE BLOCK */}
               <p
                 className={
                   isDark
-                    ? "dark-mode greeting-text-p"
-                    : "greeting-text-p subTitle"
+                    ? "dark-mode greeting-subtitle"
+                    : "greeting-subtitle"
                 }
               >
                 {greeting.subTitle}
               </p>
+              {/* ⭐ END UPDATED BLOCK */}
+
+              {/* ⭐ sub-subtitle stays the same */}
+              {greeting.subSubTitle && (
+                <p
+                  className={
+                    isDark
+                      ? "dark-mode greeting-subsubtitle"
+                      : "greeting-subsubtitle"
+                  }
+                >
+                  {greeting.subSubTitle}
+                </p>
+              )}
+
               <div id="resume" className="empty-div"></div>
               <SocialMedia />
               <div className="button-greeting-div">
@@ -46,7 +62,7 @@ export default function Greeting() {
                     download="Resume.pdf"
                     className="download-link-button"
                   >
-                    <Button text="Download my resume" />
+                    <Button text="Download my CV" />
                   </a>
                 )}
               </div>

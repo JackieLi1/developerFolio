@@ -1,3 +1,5 @@
+process.exit(0);
+
 fs = require("fs");
 const https = require("https");
 process = require("process");

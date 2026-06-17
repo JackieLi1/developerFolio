@@ -21,6 +21,20 @@
   color: $subTitle !important;
 }
 
+.greeting-subtitle {
+  font-size: 0.9rem;        // smaller text
+  font-style: italic;     // italics
+  opacity: 0.8;           // softer look
+  margin-top: 8px;        // spacing
+  color: $subTitle !important;  // keep your theme colour
+}
+
+
+.greeting-subsubtitle {
+  font-size: 1.5rem;      // smaller than subtitle
+  margin-top: 8px;   // optional, looks nice for a name note
+}
+
 .greeting-main {
   display: flex;
 }
