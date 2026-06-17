@@ -400,7 +400,7 @@ Since graduating, I've never stopped learning. A string of certifications from t
 
 When it comes to projects, I'm drawn consistently to NLP and Automatic Speech Recognition. My undergraduate dissertation tackled children's vocabulary learning through NLP and ASR, and my masters dissertation explored speech recognition systems to improve closed captioning accuracy across diverse accents. That thread runs through everything I build — I'm always looking for the next opportunity to create solutions at the intersection of language and machine intelligence.
 
-I also care deeply about the environment. Working at the Crown Office as part of a Climate Change initiative — collecting, analysing, and reporting on carbon footprint and greenhouse gas data — gave me a chance to put my data skills to work in service of something meaningful. Scotland's ambition to reach net zero by 2045 isn't just government policy to me; it's a cause I want to contribute to.
+I also care deeply about the environment. Working as part of a Climate Change initiative — collecting, analysing, and reporting on carbon footprint and greenhouse gas data — gave me a chance to put my data skills to work in service of something meaningful. Scotland's ambition to reach net zero by 2045 isn't just government policy to me; it's a cause I want to contribute to.
 
 Outside of work, I'm equally drawn to finance and markets — I follow stocks and shares closely and enjoy applying my analytical skills to financial projects in my own time. I'm also a people person with a genuine love of cultures and languages. Living as an expat is something I aspire to, and I'm currently studying both Mandarin and Cantonese with the goal of reaching full proficiency — working towards HSK 9 and beyond.
 
